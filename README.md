@@ -3,5 +3,11 @@
 
 세미나를 진행하며 발표했던 자료입니다.
 
+- Dynamic memory management in C
+- Pointers and arrays
+- Pointers and structure
+- Object-oriented techniques
+
+
 
 ![book](./book.jpg)
